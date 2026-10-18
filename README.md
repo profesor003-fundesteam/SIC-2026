@@ -1,4 +1,4 @@
-# 🤖 Curso de Python y Machine Learning
+# 🤖 Samsung Innovation Campus 2026
 
 Material educativo (2026) enfocado en el desarrollo de habilidades de análisis cuantitativo, ciencia de datos e inteligencia artificial. Este repositorio contiene todo el código fuente, notebooks y datasets necesarios para comprender y aplicar modelos de aprendizaje automático.
 
